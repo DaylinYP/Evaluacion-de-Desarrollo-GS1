@@ -1,4 +1,4 @@
-        # Evaluación de Desarrollo - GS1 Guatemala
+        # Evaluación de Desarrollo  - GS1 Guatemala
 ## Autor: Daylin Yessenia Yol Pastor | Fecha: Julio 2026
 
 ### Descripción del Proyecto-
@@ -23,12 +23,10 @@
 ### Instalación-
 Paso 1: Clonar repositorio dentro de la carpeta htdocs de la instalación de XAMPP:
     ````bash
-    " git clone  https://github.com/DaylinYP/Evaluacion-de-Desarrollo-GS1.git "  
+     git clone https://github.com/DaylinYP/Evaluacion-de-Desarrollo-GS1.git 
     ```
     Copiar el proyecto a:
-    ```text
     C:\xampp\htdocs\SistemaEmpleados
-    ```
 
 Paso 2: Instalar los drivers SQL Server para PHP si no los tenemos en la computadora:
 - Descargar desde la página oficial de Microsoft.
