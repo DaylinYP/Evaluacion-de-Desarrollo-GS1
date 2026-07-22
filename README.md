@@ -1,4 +1,5 @@
-        # Evaluación de Desarrollo  - GS1 Guatemala
+       
+## Evaluacion de Desarrollo    GS1 Guatemala       
 ## Autor: Daylin Yessenia Yol Pastor | Fecha: Julio 2026
 
 ### Descripción del Proyecto-
@@ -22,9 +23,9 @@
 
 ### Instalación-
 Paso 1: Clonar repositorio dentro de la carpeta htdocs de la instalación de XAMPP:
-    ````bash
+
      git clone https://github.com/DaylinYP/Evaluacion-de-Desarrollo-GS1.git 
-    ```
+    
     Copiar el proyecto a:
     C:\xampp\htdocs\SistemaEmpleados
 
